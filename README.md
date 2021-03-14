@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KristLin
+- 👀 I’m interested in making amazing frontend/fullstack products
+- 🌱 I’m currently learning next.js and deployment
+- 💞️ I’m looking to collaborate on starting up a bussiness related to website/app
+- 📫 How to reach me: maybe just github for now...
